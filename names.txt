@@ -1,4 +1,4 @@
-0. Наталевич Михаил Викторович
+﻿0. Наталевич Михаил Викторович
    https://github.com/natalevichmv/
 
 1. Мартинкевич Алексей Александрович
@@ -15,7 +15,8 @@ https://github.com/KatsiarynaMolochko
 9.
 10.Чеботаревский Никита Иванович
 https://github.com/nikita-cheb8/
-11.
+11. Шевцов Евгений Олегович
+    https://github.com/PblCbGomel
 12.
 13.
 
