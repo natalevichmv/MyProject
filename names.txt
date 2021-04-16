@@ -1,4 +1,4 @@
-0. Наталевич Михаил Викторович
+﻿0. Наталевич Михаил Викторович
    https://github.com/natalevichmv/
 
 1. Мартинкевич Алексей Александрович
@@ -10,12 +10,17 @@ https://github.com/KatsiarynaMolochko
 4.
 5.Недзьведь Артем Александрович
   https://github.com/DnRumato
-6.
+6. Пузанов Андрей Сергеевич 
+   https://github.com/Lalapolis
 7.
-8.
-9.
-10.
-11.
-12.
+8.Стасюк Александр Сергеевич
+  https://github.com/Alexander3578
+9. Титов Кирилл Александрович
+https://github.com/AlphaNumeralKirya/
+10.Чеботаревский Никита Иванович
+https://github.com/nikita-cheb8/
+11. Шевцов Евгений Олегович
+    https://github.com/PblCbGomel
+12.Яблонская Влада https://github.com/vlayaro
 13.
 
